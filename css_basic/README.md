@@ -14,3 +14,13 @@ This directory introduces basic CSS styling to existing HTML files.
 <link href="base.css" rel="stylesheet" />
 <link href="styles.css" rel="stylesheet" />
 ```
+
+---
+
+## Task 1: Positioning
+
+- Applied `display: flex` to `<body>` and `<main>`.
+- Set `flex-direction: column` for `<body>`, and `row` for `<main>`.
+- Applied `flex: auto` to `<main>` for automatic sizing.
+- Set `flex: 2` on `<article>` and `flex: 1` on `<aside>` to achieve the ⅔ : ⅓ width distribution.
+- Enabled vertical scroll in both content areas with `overflow-y: auto`.
