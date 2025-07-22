@@ -73,11 +73,21 @@ This section will be updated with specific styling tasks and progress as I compl
 
 ## ✅ Tasks Completed
 
-### Task 1: Import the style
+### Task 1: Import the Style
 
 - Created an empty `styles.css` file.
 - Linked it to `index.html` using a `<link>` tag inside the `<head>`.
 - This setup allows styling through an external CSS file.
+
+### Task2 : Header & Hero Styling
+
+This update includes the following changes based on the provided Figma file:
+
+- Mobile-first layout for header and hero (banner).
+- Accurate implementation of dimensions, padding, spacing, and typography.
+- Shared background image applied across both sections using a wrapper div.
+- Fonts imported via @font-face (declared only once for each variation).
+- Clean, semantic HTML with simple CSS selectors for clarity and maintainability.
 
 ## 📌 Author
 
