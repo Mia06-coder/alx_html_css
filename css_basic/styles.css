@@ -24,3 +24,83 @@ article,
 aside {
   overflow-y: auto;
 }
+
+/* === Custom Styling === */
+
+.logo > a {
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: "Yeseva One"; /* already loaded in base.css */
+  background: linear-gradient(135deg, #f97316, #db2777, #fde047);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  transition: opacity 0.3s ease;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+}
+
+.logo > a:hover {
+  opacity: 0.8;
+}
+
+/* Header custom background and spacing */
+header {
+  background-color: #012e40;
+  color: #ffffff;
+  padding: 1rem;
+}
+
+header a {
+  color: #ffffff;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+/* Article custom typography and visuals */
+article {
+  background-color: #f0f1f1;
+  color: #012e40;
+}
+
+article h1,
+article h2,
+article h3 {
+  color: #024873;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: white;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #024873;
+  color: white;
+}
+
+/* Footer styling */
+footer {
+  background-color: #012e40;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 1rem;
+}
+footer a {
+  color: #fbdc00;
+}

@@ -36,3 +36,25 @@ This directory introduces basic CSS styling to existing HTML files.
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 ```
+
+---
+
+## Task 3: Some more styling
+
+- Added my name as a LOGO
+
+```html
+<header>
+  <ul>
+    <li class="logo">
+      <a href="#">MIA</a>
+    </li>
+    <li><a href="./index.html">Home</a></li>
+    <li><a href="./tweets.html">Tweets</a></li>
+  </ul>
+</header>
+```
+
+- Improved `.logo > a` with custom font, size, gradient, and hover interaction.
+- Used `Yeseva One` font for brand consistency and better readability.
+- Applied uppercase, letter-spacing, and padding for modern polish.
