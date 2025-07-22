@@ -71,6 +71,14 @@ This section will be updated with specific styling tasks and progress as I compl
 - Footer
 - Responsive tweaks
 
+## ✅ Tasks Completed
+
+### Task 1: Import the style
+
+- Created an empty `styles.css` file.
+- Linked it to `index.html` using a `<link>` tag inside the `<head>`.
+- This setup allows styling through an external CSS file.
+
 ## 📌 Author
 
 **Mia** – Software Developer in training 💻
