@@ -103,6 +103,15 @@ This update includes the following changes based on the provided Figma file:
 - Used mobile-first grid layout with breakpoints for tablet (2 columns) and desktop (4 columns).
 - Followed BEM naming convention and organized structure with consistent spacing and padding.
 
+### Task 5: Membership Styling
+
+- Responsive Membership section layout
+  - Mobile: 1 column
+  - Tablet: 2 columns
+  - Desktop: 4 columns
+- Clean, semantic CSS using custom properties
+- Styled CTA button and icon display
+
 ## 📌 Author
 
 **Mia** – Software Developer in training 💻
