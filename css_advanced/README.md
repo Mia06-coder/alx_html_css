@@ -134,6 +134,14 @@ This update includes the following changes based on the provided Figma file:
 </section>
 ```
 
+### Task 7: Footer Styling
+
+The footer is a responsive section that includes:
+
+- The website logo
+- Social media icons (Facebook, Twitter, Instagram)
+- A copyright notice
+
 ## 📌 Author
 
 **Mia** – Software Developer in training 💻

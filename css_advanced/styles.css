@@ -144,7 +144,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 20px;
+  gap: 1.25rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
@@ -157,14 +157,14 @@ body {
   }
 }
 
-.header__logo {
-  width: 168px;
+.logo {
+  width: 169px;
   height: 30px;
 }
 
 .header__nav-links {
   display: flex;
-  gap: 52px;
+  gap: 3.25rem;
   font-weight: var(--fw-bold);
   font-size: 0.75rem;
   list-style: none;
@@ -176,10 +176,10 @@ body {
   text-transform: uppercase;
 }
 
-.header__nav-item:hover {
-  text-decoration: underline 2px;
+.header__nav-item a:hover {
+  text-decoration: underline 4px;
   text-underline-offset: 4px;
-  text-decoration-color: #ffffff;
+  text-decoration-color: var(--clr-primary);
 }
 
 /* === Hero Styles === */
@@ -214,7 +214,7 @@ body {
 .hero__tags {
   display: flex;
   justify-content: center;
-  gap: 60px;
+  gap: 3.75rem;
   margin-bottom: 2.5rem;
 }
 .hero__tag {
@@ -247,8 +247,8 @@ body {
 }
 .hero__profiles {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 100px;
+  grid-template-columns: auto;
+  gap: 6.25rem;
   max-width: 1100px;
   margin: 0 auto;
   padding: 1.25rem;
@@ -256,19 +256,21 @@ body {
 /* Tablet - 2 columns */
 @media (min-width: 600px) {
   .hero__profiles {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, auto);
   }
 }
 
 /* Desktop - 4 columns */
 @media (min-width: 992px) {
   .hero__profiles {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, auto);
   }
 }
 
 .hero__pro {
   text-align: center;
+  width: 150px;
+  margin: 0 auto;
 }
 .hero__avatar {
   width: 150px;
@@ -305,7 +307,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 52px;
+  gap: 3.25rem;
   max-width: 944px;
   margin: 0 auto;
 }
@@ -371,7 +373,7 @@ body {
 .tutorials__wrapper {
   display: grid;
   grid-template-columns: auto;
-  gap: 32px;
+  gap: 2rem;
   justify-content: center;
   padding-top: 4.75rem;
   max-width: 1120px;
@@ -437,7 +439,7 @@ body {
 .tutorial__xp {
   display: flex;
   align-items: center;
-  gap: 13px;
+  gap: 0.75rem;
   margin-top: 0.75rem;
 }
 
@@ -450,6 +452,7 @@ body {
 .tutorial__time {
   font-size: 0.875rem;
   font-weight: var(--fw-semibold);
+  line-height: 27px;
   color: var(--clr-primary);
 }
 
@@ -462,11 +465,16 @@ body {
 
 .ratings__wrapper {
   display: flex;
-  gap: 8px;
+  align-items: center;
+  gap: 0.5rem;
 }
-.rating__icon {
-  width: 15px;
-  height: 15px;
+.rating__star {
+  font-size: 15px;
+  color: #d8d8d8;
+}
+
+.rating__star--filled {
+  color: #c271ff;
 }
 
 /* === Membership Styles === */
@@ -487,7 +495,7 @@ body {
   display: grid;
   grid-template-columns: auto;
   justify-content: center;
-  gap: 28px;
+  gap: 1.75rem;
   margin: 0 auto;
 }
 
@@ -559,7 +567,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 74px;
+  gap: 4.625rem;
   max-width: 920px;
   padding-top: 74px;
 }
@@ -567,7 +575,7 @@ body {
 .faq__column {
   display: flex;
   flex-direction: column;
-  gap: 74px;
+  gap: 4.625rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -581,7 +589,7 @@ body {
   max-width: 350px;
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 1.875rem;
 }
 
 .faq__question {
@@ -593,4 +601,59 @@ body {
   font-size: 0.875rem;
   line-height: 24px;
   opacity: 50.16%;
+}
+
+/* === Footer Styles === */
+.footer {
+  background: var(--clr-text-dark);
+  color: #ffffff;
+  padding: 6rem 1.25rem 1.875rem;
+}
+
+.footer > section {
+  display: flex;
+  flex-direction: column;
+  gap: 4.375rem;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  max-width: 1100px;
+}
+
+.footer__top {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__top {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.footer__social-icons {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.footer__social-icon {
+  font-size: 1.875rem;
+  color: inherit;
+  text-decoration: none;
+  transition: opacity 0.3s;
+}
+
+.footer__social-icon:hover {
+  opacity: 0.8;
+}
+
+.footer__copy {
+  font-size: 0.875rem;
+  opacity: 35.17%;
+  text-align: center;
 }
