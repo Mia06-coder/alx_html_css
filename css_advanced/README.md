@@ -112,6 +112,28 @@ This update includes the following changes based on the provided Figma file:
 - Clean, semantic CSS using custom properties
 - Styled CTA button and icon display
 
+### Task 6: FAQ Styling
+
+- A fully responsive FAQ section, styled based on the Figma design.
+
+#### Code Overview - HTML Structure
+
+```html
+<section class="faq">
+  <h2 class="faq__title">F.A.Q</h2>
+  <div class="faq__block">
+    <div class="faq__column">
+      <!-- FAQ item 1 -->
+      <!-- FAQ item 2 -->
+    </div>
+    <div class="faq__column">
+      <!-- FAQ item 3 -->
+      <!-- FAQ item 4 -->
+    </div>
+  </div>
+</section>
+```
+
 ## 📌 Author
 
 **Mia** – Software Developer in training 💻
