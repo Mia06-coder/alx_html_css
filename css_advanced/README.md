@@ -58,7 +58,7 @@ Here is the design I’m working on replicating:
 
 ![Figma Design Screenshot](./images/figma-design.png)
 
-📌 Make sure to duplicate the [design](https://www.figma.com/design/lf3pF5UxyelYnpSPKQeoc0/Homepage--Copy-?node-id=0-1&t=oy5udNjvklosO7Yl-1) into your own Figma drafts to inspect properties and download assets.
+📌 Make sure to duplicate the [design](https://www.figma.com/design/nbRGQSlIiRKSnNcnwcSASS/Homepage--Copy-?node-id=0-1&p=f&t=Iz5osdTWAgvXyBdL-0) into your own Figma drafts to inspect properties and download assets.
 
 ## 🛠️ Styling Progress
 
