@@ -89,6 +89,13 @@ This update includes the following changes based on the provided Figma file:
 - Fonts imported via @font-face (declared only once for each variation).
 - Clean, semantic HTML with simple CSS selectors for clarity and maintainability.
 
+### Task 3 : Testimonial Styling
+
+- Styled the testimonial (quote) section based on the Figma specs.
+- Used mobile-first approach for responsiveness.
+- Avatar stacks above text on mobile and aligns horizontally on larger screens.
+- Typography and spacing match the design system.
+
 ## 📌 Author
 
 **Mia** – Software Developer in training 💻
