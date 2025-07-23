@@ -96,6 +96,13 @@ This update includes the following changes based on the provided Figma file:
 - Avatar stacks above text on mobile and aligns horizontally on larger screens.
 - Typography and spacing match the design system.
 
+### Task 4 : Tutorials Styling
+
+- Added responsive grid layout for tutorial cards.
+- Cards are fixed at 255px width, center-aligned.
+- Used mobile-first grid layout with breakpoints for tablet (2 columns) and desktop (4 columns).
+- Followed BEM naming convention and organized structure with consistent spacing and padding.
+
 ## 📌 Author
 
 **Mia** – Software Developer in training 💻
