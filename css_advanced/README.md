@@ -1,5 +1,3 @@
-docs: add responsive screenshots to README
-
 # Advanced CSS Project – Figma to HTML & CSS
 
 Welcome to the **Advanced CSS Styling** project!
