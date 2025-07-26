@@ -53,7 +53,7 @@ This update includes the following changes based on the provided Figma file:
 
 | Mobile                                                   | Tablet                                                   | Desktop                                                    |
 | -------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Banner Mobile](./images/screenshots/banner-mobile.png) | ![Banner Tablet](./images/screenshots/banner-tablet.png) | ![Banner Desktop](./images/screenshots/banner-desktop.png) |
+| ![Banner Mobile](./images/screenshots/banner-mobile.PNG) | ![Banner Tablet](./images/screenshots/banner-tablet.PNG) | ![Banner Desktop](./images/screenshots/banner-desktop.PNG) |
 
 ### Task 3 : Testimonial Styling
 
@@ -64,7 +64,7 @@ This update includes the following changes based on the provided Figma file:
 
 | Mobile                                                              | Tablet                                                              | Desktop                                                               |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![Testimonials Mobile](./images/screenshots/testimonial-mobile.png) | ![Testimonials Tablet](./images/screenshots/testimonial-tablet.png) | ![Testimonials Desktop](./images/screenshots/testimonial-desktop.png) |
+| ![Testimonials Mobile](./images/screenshots/testimonial-mobile.PNG) | ![Testimonials Tablet](./images/screenshots/testimonial-tablet.PNG) | ![Testimonials Desktop](./images/screenshots/testimonial-desktop.PNG) |
 
 ### Task 4 : Tutorials Styling
 
@@ -75,7 +75,7 @@ This update includes the following changes based on the provided Figma file:
 
 | Mobile                                                         | Tablet                                                         | Desktop                                                          |
 | -------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Tutorials Mobile](./images/screenshots/tutorials-mobile.png) | ![Tutorials Tablet](./images/screenshots/tutorials-tablet.png) | ![Tutorials Desktop](./images/screenshots/tutorials-desktop.png) |
+| ![Tutorials Mobile](./images/screenshots/tutorials-mobile.PNG) | ![Tutorials Tablet](./images/screenshots/tutorials-tablet.PNG) | ![Tutorials Desktop](./images/screenshots/tutorials-desktop.PNG) |
 
 ### Task 5: Membership Styling
 
@@ -88,7 +88,7 @@ This update includes the following changes based on the provided Figma file:
 
 | Mobile                                                           | Tablet                                                           | Desktop                                                            |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| ![Membership Mobile](./images/screenshots/membership-mobile.png) | ![Membership Tablet](./images/screenshots/membership-tablet.png) | ![Membership Desktop](./images/screenshots/membership-desktop.png) |
+| ![Membership Mobile](./images/screenshots/membership-mobile.PNG) | ![Membership Tablet](./images/screenshots/membership-tablet.PNG) | ![Membership Desktop](./images/screenshots/membership-desktop.PNG) |
 
 ### Task 6: FAQ Styling
 
@@ -114,7 +114,7 @@ This update includes the following changes based on the provided Figma file:
 
 | Mobile                                             | Tablet                                             | Desktop                                              |
 | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- |
-| ![FAQ Mobile](./images/screenshots/faq-mobile.png) | ![FAQ Tablet](./images/screenshots/faq-tablet.png) | ![FAQ Desktop](./images/screenshots/faq-desktop.png) |
+| ![FAQ Mobile](./images/screenshots/faq-mobile.PNG) | ![FAQ Tablet](./images/screenshots/faq-tablet.PNG) | ![FAQ Desktop](./images/screenshots/faq-desktop.PNG) |
 
 ### Task 7: Footer Styling
 
@@ -126,7 +126,7 @@ The footer is a responsive section that includes:
 
 | Mobile                                                   | Tablet                                                   | Desktop                                                    |
 | -------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Footer Mobile](./images/screenshots/footer-mobile.png) | ![Footer Tablet](./images/screenshots/footer-tablet.png) | ![Footer Desktop](./images/screenshots/footer-desktop.png) |
+| ![Footer Mobile](./images/screenshots/footer-mobile.PNG) | ![Footer Tablet](./images/screenshots/footer-tablet.PNG) | ![Footer Desktop](./images/screenshots/footer-desktop.PNG) |
 
 ---
 
