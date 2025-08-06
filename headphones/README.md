@@ -118,8 +118,6 @@ To run the project locally:
    git clone https://github.com/mia06-coder/alx_html_css.git
    ```
 
-````
-
 2. Navigate to the project folder:
 
    ```bash
@@ -144,4 +142,7 @@ Made with ❤️ by **Mia Mudzingwa**
 
 - GitHub: [Mia06-coder](https://github.com/Mia06-coder)
 - LinkedIn: [mia-mudzingwa](https://www.linkedin.com/in/mia-mudzingwa)
-````
+
+```
+
+```
