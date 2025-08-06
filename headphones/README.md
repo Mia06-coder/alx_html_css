@@ -93,11 +93,11 @@ alx_html_css/
 │ └── 1-styles.css
 │ └── 2-index.html (Results Added)
 │ └── 2-styles.css
+│ └── 3-index.html (Contact Form Added)
+│ └── 3-styles.css
 ```
 
 <!--
-│ └── 3-index.html
-│ └── 3-styles.css
 │ └── 4-index.html
 │ └── 4-styles.css
 │ └── 6-index.html
