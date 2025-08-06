@@ -22,7 +22,7 @@ A fully responsive, accessible, and visually accurate implementation of a landin
 
 ## Preview of the design
 
-![UI Design](image.png)
+![UI Design](./images/image.png)
 
 ---
 
@@ -91,11 +91,11 @@ alx_html_css/
 │ └── 0-styles.css
 │ └── 1-index.html (Services Added)
 │ └── 1-styles.css
+│ └── 2-index.html (Results Added)
+│ └── 2-styles.css
 ```
 
 <!--
-│ └── 2-index.html
-│ └── 2-styles.css
 │ └── 3-index.html
 │ └── 3-styles.css
 │ └── 4-index.html
