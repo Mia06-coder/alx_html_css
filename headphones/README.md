@@ -99,11 +99,11 @@ alx_html_css/
 │ └── 4-styles.css
 │ └── 6-index.html (Clip Path Usage)
 │ └── 6-styles.css
+│ └── 7-index.html (Fun Animations)
+│ └── 7-styles.css
 ```
 
 <!--
-│ └── 7-index.html
-│ └── 7-styles.css
 │ └── 8-index.html
 │ └── 8-styles.css
 │ └── 8-script.js

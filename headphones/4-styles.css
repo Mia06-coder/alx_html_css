@@ -305,6 +305,24 @@ a:active {
   font-size: 2rem;
   font-weight: bold;
   margin-bottom: 2.5rem;
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.section__title::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 0;
+  background-color: var(--color-primary);
+  transition: width 0.4s ease;
+}
+
+.section__title:hover::after {
+  width: 100%;
 }
 
 .section__intro {
@@ -345,6 +363,22 @@ a:active {
   margin-bottom: 0.5rem;
 }
 
+#services .section__item:hover {
+  animation: bounce-up 0.5s ease forwards;
+}
+
+@keyframes bounce-up {
+  0% {
+    transform: scale(1) translateY(0);
+  }
+  50% {
+    transform: scale(1.05) translateY(-6px);
+  }
+  100% {
+    transform: scale(1.03) translateY(-5px);
+  }
+}
+
 /*************************************************************/
 /* ========== RESULTS ========== */
 #results {
@@ -360,6 +394,25 @@ a:active {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  animation: floating 3s ease-in-out infinite;
+}
+
+@keyframes floating {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+#results .section__item:hover {
+  animation: none;
+  transform: translateY(-10px) scale(1.05);
+  transition: transform 0.3s ease;
 }
 
 #results .section__item-title {
