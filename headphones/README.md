@@ -87,11 +87,11 @@ The landing page replicates a provided UI/UX design and adapts seamlessly across
 alx_html_css/
 └── headphones/
 │ └── README.md
+│ └── 0-index.html (Header + Hero)
+│ └── 0-styles.css
 ```
 
 <!--
-│ └── 0-index.html
-│ └── 0-styles.css
 │ └── 1-index.html
 │ └── 1-styles.css
 │ └── 2-index.html
