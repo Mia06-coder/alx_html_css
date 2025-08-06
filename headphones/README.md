@@ -95,13 +95,13 @@ alx_html_css/
 │ └── 2-styles.css
 │ └── 3-index.html (Contact Form Added)
 │ └── 3-styles.css
-│ └── 4-index.html
-│ └── 4-styles.css (Footer Added)
+│ └── 4-index.html (Footer Added)
+│ └── 4-styles.css
+│ └── 6-index.html (Clip Path Usage)
+│ └── 6-styles.css
 ```
 
 <!--
-│ └── 6-index.html
-│ └── 6-styles.css
 │ └── 7-index.html
 │ └── 7-styles.css
 │ └── 8-index.html
