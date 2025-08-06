@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Headphones Landing Page</title>
-    <link rel="stylesheet" href="./7-styles.css" />
+    <link rel="stylesheet" href="./8-styles.css" />
     <link rel="stylesheet" href="./holberton_school-icon/style.css" />
     <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
   </head>
@@ -12,17 +12,16 @@
     <!-- HEADER -->
     <header id="header" class="header">
       <div id="navigation" class="container">
-        <input type="checkbox" id="nav-toggle" hidden />
-
-        <label
-          for="nav-toggle"
+        <div
           class="menu-toggle"
+          id="menu-toggle"
           aria-label="Toggle navigation"
+          aria-expanded="false"
         >
           <span></span>
           <span></span>
           <span></span>
-        </label>
+        </div>
         <div class="logo">
           <img src="./images/logo_headphones.png" alt="Logo" class="logo" />
         </div>
@@ -211,5 +210,8 @@
         <p class="footer__copyright">© headphones 2020</p>
       </div>
     </footer>
+
+    <!-- JS -->
+    <script src="./8-script.js"></script>
   </body>
 </html>

@@ -101,14 +101,10 @@ alx_html_css/
 │ └── 6-styles.css
 │ └── 7-index.html (Fun Animations)
 │ └── 7-styles.css
-```
-
-<!--
-│ └── 8-index.html
+│ └── 8-index.html (JS for Hamburger Menu)
 │ └── 8-styles.css
 │ └── 8-script.js
 ```
--->
 
 ---
 
@@ -120,8 +116,9 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/mia06-coder/alx_html_css.git
-
    ```
+
+````
 
 2. Navigate to the project folder:
 
@@ -147,3 +144,4 @@ Made with ❤️ by **Mia Mudzingwa**
 
 - GitHub: [Mia06-coder](https://github.com/Mia06-coder)
 - LinkedIn: [mia-mudzingwa](https://www.linkedin.com/in/mia-mudzingwa)
+````
